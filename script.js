@@ -4,8 +4,8 @@ function firstChar(text) {
 		return '';
 	}
 	else{
-		return text.charAt(text);
-		
+		return text.charAt(0);
+
 	}
 }
 
